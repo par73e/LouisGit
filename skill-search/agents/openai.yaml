@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Skill Search"
+  short_description: "Discover Codex skills on GitHub by describing your needs"
+  default_prompt: "Find a skill for..."
